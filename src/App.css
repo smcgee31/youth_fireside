@@ -2,7 +2,15 @@ img {
   width: 100%;
 }
 
-.flyer-container {
+.wrapper {
+  height: 1280px;
   max-width: 600px;
+  background-color: #eea584;
   margin: auto;
+}
+
+.flyer-container {}
+
+.instructions {
+  padding: 20px;
 }
