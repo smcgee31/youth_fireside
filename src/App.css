@@ -5,11 +5,12 @@ img {
 .wrapper {
   height: 1280px;
   max-width: 600px;
-  background-color: #eea584;
+  background-color: #000;
   margin: auto;
 }
 
-.flyer-container {}
+.flyer-container {
+}
 
 .instructions {
   padding: 20px;

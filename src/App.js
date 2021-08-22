@@ -1,5 +1,5 @@
 import React from 'react';
-import flyer from './assets/sep6_fireside_flyer.png';
+import flyer from './assets/YouthMusicFireside.png';
 import './App.css';
 
 function App() {
@@ -9,15 +9,15 @@ function App() {
       <div className="wrapper">
         <div className="flyer-container">
           <a href={zoomLink}>
-            <img src={flyer} alt="Youth Fireside on Sept 6th at 7:00pm" />{' '}
+            <img src={flyer} alt="Youth Fireside on Aug 29th at 6:00pm" />{' '}
           </a>
         </div>
-        <div className="instructions">
+        {/* <div className="instructions">
           <p>Click the link above to join the meeting right on this device or join the meeting on your computer using the meeting code below.</p>
           <p>{`Go to zoom.com, then click \n"Join a Meeting"`}</p>
           <div>Meeting ID: 837 2036 2804</div>
           <div>Passcode: 022960</div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
