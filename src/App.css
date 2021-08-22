@@ -7,6 +7,7 @@ img {
   max-width: 600px;
   background-color: #000;
   margin: auto;
+  margin-top: -40px;
 }
 
 .flyer-container {
